@@ -1,0 +1,9 @@
+Z:\work\mls\MLS.ZWave.Controller\Plugins\LightSwitch\obj\Debug\LightSwitch.csprojResolveAssemblyReference.cache
+Z:\work\mls\MLS.ZWave.Controller\Plugins\LightSwitch\bin\Debug\LightSwitch.dll
+Z:\work\mls\MLS.ZWave.Controller\Plugins\LightSwitch\bin\Debug\LightSwitch.pdb
+Z:\work\mls\MLS.ZWave.Controller\Plugins\LightSwitch\bin\Debug\MLS.HA.DeviceController.Common.dll
+Z:\work\mls\MLS.ZWave.Controller\Plugins\LightSwitch\bin\Debug\MLS.HA.DeviceController.Common.pdb
+Z:\work\mls\MLS.ZWave.Controller\Plugins\LightSwitch\obj\Debug\LightSwitch.dll
+Z:\work\mls\MLS.ZWave.Controller\Plugins\LightSwitch\obj\Debug\LightSwitch.pdb
+Z:\work\mls\MLS.ZWave.Controller\MLS.ZWave.Service\Plugins\LightSwitch.dll
+Z:\work\mls\MLS.ZWave.Controller\MLS.ZWave.Service\Plugins\LightSwitch.pdb
